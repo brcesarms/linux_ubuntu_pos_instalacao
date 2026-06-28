@@ -2,7 +2,7 @@
 
 ## Script
 ```bash
-sudo bash -c "$(wget https://raw.githubusercontent.com/xbrncsr/ubuntu/main/ubuntu.sh -O -)"
+sudo bash -c "$(wget https://raw.githubusercontent.com/brcesarms/linux_ubuntu_pos_instalacao/refs/heads/main/linux_ubuntu_pos_instalacao.sh -O -)"
  
 ```
 
